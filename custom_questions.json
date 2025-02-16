@@ -1,0 +1,22 @@
+[
+    [
+        "what is my name ?",
+        [
+            "Abhishek",
+            "Sameer",
+            "Rimesh",
+            "Rithik"
+        ],
+        1
+    ],
+    [
+        "what is the full form of ip ?",
+        [
+            "Internet protocol",
+            "internet provider",
+            "internet privacy",
+            "international protocol"
+        ],
+        1
+    ]
+]
