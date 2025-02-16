@@ -37,11 +37,7 @@ To get started, follow these steps to install the game on your local machine:
    git clone https://github.com/Abhishek08Mishra/error-404-brain-not-found.git
    cd error-404-brain-not-found
 
-2.  **Install Dependencies 📦**:
-    ```bash
-    pip install -r requirements.txt
-
-3. Run the Game 🎮:
+2. Run the Game 🎮:
    ```bash
    python main.py
 
