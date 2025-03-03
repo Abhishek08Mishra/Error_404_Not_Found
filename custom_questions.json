@@ -18,5 +18,35 @@
             "international protocol"
         ],
         1
+    ],
+    [
+        "Which law governs Nepal\u2019s central banking?",
+        [
+            "Insurance Act 1992",
+            "NRB Act 2058",
+            "Debt Recovery Act",
+            "BAFIA Act 2073"
+        ],
+        2
+    ],
+    [
+        "What is a key feature of an insurance contract?",
+        [
+            "Fixed returns",
+            "Utmost good faith",
+            "Guaranteed interest",
+            "Insurable Interest"
+        ],
+        2
+    ],
+    [
+        "What is the primary role of Nepal Rastra Bank (NRB)?",
+        [
+            "To issue licenses to insurance companies.",
+            "To regulate banks and maintain financial stability.",
+            "To sell government bonds.",
+            "To provide free banking services to citizens."
+        ],
+        2
     ]
 ]
